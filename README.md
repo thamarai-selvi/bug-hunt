@@ -54,6 +54,8 @@ The scoring incentives are load-bearing — they exploit each agent's desire to 
 
 Based on the adversarial bug hunting technique described by [@systematicls](https://x.com/systematicls) in "How To Be A World-Class Agentic Engineer."
 
+Brand by [Kitt]([url](https://x.com/Kitt_Curious)) at [Curious Endeavor]([url](https://curiousendeavor.com/))
+
 ## License
 
 MIT
